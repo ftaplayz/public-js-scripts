@@ -2,7 +2,7 @@
 // @name        Enhanced Oghma
 // @namespace   https://github.com/ftaplayz/public-js-scripts
 // @match       https://oghma.epcc.pt/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=epcc.pt
+// @icon        https://www.google.com/s2/favicons?sz=64&domain=epcc.pt
 // @grant       none
 // @version     1.0
 // @author      ftaplayz
