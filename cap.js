@@ -3938,7 +3938,4 @@ const mix = (...ingredients) => decoratedClass => {
 };
 exports.mix = mix;
 
-},{}],49:[function(require,module,exports){
-const cc = require('@zennolab_com/capmonstercloud-client');
-
-},{"@zennolab_com/capmonstercloud-client":47}]},{},[49]);
+},{}]},{},[47]);
