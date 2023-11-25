@@ -13,7 +13,10 @@
 // ==/UserScript==
 var c = new CaptchaSolver('API KEY');
 document.addEventListener('DOMNodeInserted', function(event){
-	if(c.hasHCaptcha())
+	if(c.hasHCaptcha()){
         c.solveHCaptcha();
+        console.log('Has hCaptcha');
+    }
+    console.log("Doesn't have hCaptcha");
 })
 
