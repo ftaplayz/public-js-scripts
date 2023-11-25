@@ -7,7 +7,7 @@
 // @version     1.0
 // @author      ftaplayz
 // @require     https://raw.githubusercontent.com/ftaplayz/public-js-scripts/main/cap.js
-// @run-at      document-end
+// @run-at      document-start
 // @noframes
 // @description Auto complete hCaptcha for Epic Games Store
 // ==/UserScript==
